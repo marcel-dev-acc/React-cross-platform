@@ -1,5 +1,12 @@
 # React Cross Platform
 
+## FOR EDUCATION PURPOSES ONLY
+
+- React version `18.2.0`
+- React Native version `0.71.12`
+
+![screenshot](./assets/readme/screenshot.png)
+
 ## Introduction
 
 Having closely followed the evolution of both frameworks, I am excited to present an innovative solution that combines the power of React and React Native into a unified repository.
